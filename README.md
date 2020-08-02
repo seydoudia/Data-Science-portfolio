@@ -1,4 +1,4 @@
-![profile picture](https://raw.githubusercontent.com/seydoudia/Data-Science-portfolio/master/small.png "profile pic") hello
+![profile picture](https://raw.githubusercontent.com/seydoudia/Data-Science-portfolio/master/small.png "profile pic") **Seydou DIA - I'am an Engineering Student at INSA Lyon who likes to contribute to Data Science project in relation with the the energy sector and the development of Smart Grids.
 
 # [Project 1: Identifying a household's energy fingerprint with KMeans clustering (2020)](https://nbviewer.jupyter.org/github/seydoudia/ml_energy/blob/master/sdia_prj1_cluster_profile.ipynb)
 if link doesn't work, click [HERE](https://github.com/seydoudia/ml_energy/blob/master/sdia_prj1_cluster_profile.ipynb) to access project
