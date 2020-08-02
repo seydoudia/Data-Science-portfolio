@@ -1,4 +1,4 @@
-[profile_pic](https://raw.githubusercontent.com/seydoudia/Data-Science-portfolio/master/png.png)
+![profile picture](https://raw.githubusercontent.com/seydoudia/Data-Science-portfolio/master/png.png "profile pic")
 
 # [Project 1: Identifying a household's energy fingerprint with KMeans clustering (2020)](https://nbviewer.jupyter.org/github/seydoudia/ml_energy/blob/master/sdia_prj1_cluster_profile.ipynb)
 if link doesn't work, click [HERE](https://github.com/seydoudia/ml_energy/blob/master/sdia_prj1_cluster_profile.ipynb) to access project
