@@ -1,4 +1,3 @@
-![profile picture](https://raw.githubusercontent.com/seydoudia/Data-Science-portfolio/master/small.png "profile pic") **Seydou DIA - I'am an Engineering Student at INSA Lyon who likes to contribute to Data Science project in relation with the the energy sector and the development of Smart Grids.
 
 # [Project 1: Identifying a household's energy fingerprint with KMeans clustering (2020)](https://nbviewer.jupyter.org/github/seydoudia/ml_energy/blob/master/sdia_prj1_cluster_profile.ipynb)
 if link doesn't work, click [HERE](https://github.com/seydoudia/ml_energy/blob/master/sdia_prj1_cluster_profile.ipynb) to access project
@@ -8,3 +7,14 @@ if link doesn't work, click [HERE](https://github.com/seydoudia/ml_energy/blob/m
 * Used KMeans algorithm in order to identify electricity usage profiles of a household
 * Found optimal number of centeroids with silhouette method
 * Validating results with t-SNE dimensionality reduction
+
+
+
+# About Me
+
+**Seydou DIA**
+![profile picture](https://raw.githubusercontent.com/seydoudia/Data-Science-portfolio/master/small.png "profile pic") **I am an engineering student at INSA Lyon who likes to contribute to Data Science projects in relation with the energy sector and the development of Smart Grids.
+
+
+# Contact
+[Linkedin](https://www.linkedin.com/in/seydou-dia-325b04139/)
