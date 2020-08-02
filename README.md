@@ -14,8 +14,9 @@ if link doesn't work, click [HERE](https://github.com/seydoudia/ml_energy/blob/m
 **Seydou DIA**
 
 ![profile picture](https://raw.githubusercontent.com/seydoudia/Data-Science-portfolio/master/small.png "profile pic") <br>
-**I am an engineering student at INSA Lyon who likes to contribute to Data Science projects in relation with the energy sector and the development of Smart Grids.
+**I am an engineering student at INSA Lyon who likes to contribute to Data Science projects in relation with the energy sector and the development of Smart Grids.**
 
 
 # Contact
 [Linkedin](https://www.linkedin.com/in/seydou-dia-325b04139/)
+@ : seydou.dia@insa-lyon.fr
