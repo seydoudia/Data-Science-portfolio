@@ -1,4 +1,4 @@
-# [Project 1: Identifying a household's energy fingerprint with KMeans (2020)](https://github.com/seydoudia/ml_energy/blob/master/dev_analysis.ipynb)
+# [Project 1: Identifying a household's energy fingerprint with KMeans clustering (2020)](https://github.com/seydoudia/ml_energy/blob/master/dev_analysis.ipynb)
 if link doesn't work, click [HERE](https://github.com/seydoudia/ml_energy/blob/master/dev_analysis.ipynb) to access project
 
 **Project Achievements**
