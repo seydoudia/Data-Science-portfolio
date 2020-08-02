@@ -19,6 +19,6 @@ if link doesn't work, click [HERE](https://github.com/seydoudia/ml_energy/blob/m
 
 # Contact
 [Linkedin](https://www.linkedin.com/in/seydou-dia-325b04139/)<br>
-[Github](https://github.com/seydoudia)
- Email: seydou.dia@insa-lyon.fr
- [INSA Lyon Website](https://www.insa-lyon.fr/en)
+[Github](https://github.com/seydoudia)<br>
+ Email: seydou.dia@insa-lyon.fr<br>
+ [INSA Lyon Website](https://www.insa-lyon.fr/en)<br>
