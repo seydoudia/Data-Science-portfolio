@@ -3,6 +3,6 @@ if link doesn't work, click [HERE](https://github.com/seydoudia/ml_energy/blob/m
 
 **Project Achievements**
 * Processed 4 year historical data from an electric meter at a 1 minute timestep
-* Used Kmeans algortihm in order to identify consumption profiles from a household's electric meter
+* Used KMeans algorithm in order to identify electricity usage profiles of a household
 * Found optimal number of centeroids with silhouette method
 * Validating results with t-SNE dimensionality reduction
