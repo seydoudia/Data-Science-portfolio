@@ -14,7 +14,7 @@ if link doesn't work, click [HERE](https://github.com/seydoudia/ml_energy/blob/m
 **Seydou DIA**
 
 ![profile picture](https://raw.githubusercontent.com/seydoudia/Data-Science-portfolio/master/small.png "profile pic") <br>
-**I am an engineering student at INSA Lyon who likes to contribute to Data Science projects in relation with the energy sector and the development of Smart Grids. Mindful of the current climate and economic challenges, I firmly believe that the energy transition will be made with the help of NICTs and soft technologies. **
+**I am an engineering student at INSA Lyon who likes to contribute to Data Science projects in relation with the energy sector and the development of Smart Grids. Mindful of the current climate and economic challenges, I firmly believe that the energy transition will be made with the help of NICTs and soft technologies.**
 
 
 # Contact
