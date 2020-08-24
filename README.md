@@ -1,4 +1,4 @@
-# Project 3: Forecasting France - France (Coming soon)
+# Project 3: Forecasting electricity demand in France (Coming soon)
 
 # [Project 2: Predicting the energy output of a power plant with multiple linear regressions (2020)](https://nbviewer.jupyter.org/github/seydoudia/ml_energy/blob/master/sdia_prj2_power_plant.ipynb)
 if link doesn't work, click [HERE](https://github.com/seydoudia/ml_energy/blob/master/sdia_prj2_power_plant.ipynb) to access project
