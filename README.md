@@ -8,7 +8,14 @@ if link doesn't work, click [HERE](https://github.com/seydoudia/ml_energy/blob/m
 * Found optimal number of centeroids with silhouette method
 * Validating results with t-SNE dimensionality reduction
 
-# Project 2: Predicting the energy output of a power plant with multiple linear regressions (Coming soon)
+# [Project 2: Predicting the energy output of a power plant with multiple linear regressions (2020)](https://nbviewer.jupyter.org/github/seydoudia/ml_energy/blob/master/sdia_prj2_power_plant.ipynb)
+
+**Project Achievements**
+* Building two multiple linear regression models with both Scikit-Learn and Stats Model
+* Verifying linear regression assumptions (linearity, residual mean of 0, homoscedasticity, abscence of residual correlation etc.)
+* Analysing multi-collinearity in features using variance inflation factor method
+* Testing homoscedasticity hypothesis with Breusch-Pagan test
+
 ___
 ___
 # About Me
