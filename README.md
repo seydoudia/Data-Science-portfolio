@@ -18,7 +18,7 @@ if link doesn't work, click [HERE](https://github.com/seydoudia/ml_energy/blob/m
 * Tested homoscedasticity hypothesis with Breusch-Pagan test
 
 
-# [Research Paper 1: Big Data at the service of socio-economic developement (2019)] (https://github.com/seydoudia/ml_energy/blob/master/Big_Data_SDG.pdf) *RESEARCH PAPER IN FRENCH*
+# [Research Paper 1: Big Data at the service of socio-economic developement (2019)](https://github.com/seydoudia/ml_energy/blob/master/Big_Data_SDG.pdf) *RESEARCH PAPER IN FRENCH*
 
 **Abstract**
 We often hear about Big Data and AI as technologies for maximizing corporate profit or for mass surveillance. But who would have thought that these new tools could be useful for the socio-economic development of developing countries. This is what this research is trying to achieve by exploring how machine learning and data science can contribute to the development of poor and developing countries or prevent humanitarian crisis situations.<br>This work was carried out as part of INSA Lyon's Personal Project in Humanity (PPH).
