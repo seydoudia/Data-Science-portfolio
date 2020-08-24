@@ -1,13 +1,3 @@
-
-# [Project 1: Identifying a household's energy fingerprint with KMeans clustering (2020)](https://nbviewer.jupyter.org/github/seydoudia/ml_energy/blob/master/sdia_prj1_cluster_household.ipynb)
-if link doesn't work, click [HERE](https://github.com/seydoudia/ml_energy/blob/master/sdia_prj1_cluster_household.ipynb) to access project
-
-**Project Achievements**
-* Processed 4 year historical data from an electric meter at a 1 minute timestep
-* Used KMeans algorithm in order to identify electricity usage profiles of a household
-* Found optimal number of centeroids with silhouette method
-* Validating results with t-SNE dimensionality reduction
-
 # [Project 2: Predicting the energy output of a power plant with multiple linear regressions (2020)](https://nbviewer.jupyter.org/github/seydoudia/ml_energy/blob/master/sdia_prj2_power_plant.ipynb)
 if link doesn't work, click [HERE](https://github.com/seydoudia/ml_energy/blob/master/sdia_prj2_power_plant.ipynb) to access project
 
@@ -18,11 +8,21 @@ if link doesn't work, click [HERE](https://github.com/seydoudia/ml_energy/blob/m
 * Tested homoscedasticity hypothesis with Breusch-Pagan test
 
 
+# [Project 1: Identifying a household's energy fingerprint with KMeans clustering (2020)](https://nbviewer.jupyter.org/github/seydoudia/ml_energy/blob/master/sdia_prj1_cluster_household.ipynb)
+if link doesn't work, click [HERE](https://github.com/seydoudia/ml_energy/blob/master/sdia_prj1_cluster_household.ipynb) to access project
+
+**Project Achievements**
+* Processed 4 year historical data from an electric meter at a 1 minute timestep
+* Used KMeans algorithm in order to identify electricity usage profiles of a household
+* Found optimal number of centeroids with silhouette method
+* Validating results with t-SNE dimensionality reduction
+
+
 # [Research Paper 1: Big Data at the service of socio-economic developement (2019)](https://github.com/seydoudia/ml_energy/blob/master/Big_Data_SDG.pdf) 
 *RESEARCH PAPER IN FRENCH*
 
 **Abstract**<br>
-We often hear about Big Data and AI as technologies for maximizing corporate profit or for mass surveillance. But who would have thought that these new tools could be useful for the socio-economic development of developing countries. This is what this research is trying to achieve by exploring how machine learning and data science can contribute to the development of poor and developing countries or prevent humanitarian crisis situations.<br>This work was carried out as part of INSA Lyon's Personal Project in Humanity (PPH).
+We often hear about Big Data and AI as technologies for maximizing corporate profit or for mass surveillance. But who would have thought that these new tools could be useful for the socio-economic development of developing countries. This is what this research is trying to achieve by exploring how machine learning and data science can contribute to the development of poor and developing countries or prevent humanitarian crisis situations.<br>*This work was carried out as part of INSA Lyon's Personal Project in Humanity (PPH).*
 
   
 ___
