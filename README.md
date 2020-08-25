@@ -4,7 +4,7 @@
 if link doesn't work, click [HERE](https://github.com/seydoudia/ml_energy/blob/master/sdia_prj2_power_plant.ipynb) to access project
 
 **Project Achievements**
-* Build two multiple linear regression models with both Scikit-Learn and Stats Model
+* Built two multiple linear regression models with both Scikit-Learn and Stats Model
 * Verified linear regression assumptions (linearity, residual mean of 0, homoscedasticity, abscence of residual correlation etc.)
 * Analysed multi-collinearity in features using variance inflation factor method
 * Tested homoscedasticity hypothesis with Breusch-Pagan test
