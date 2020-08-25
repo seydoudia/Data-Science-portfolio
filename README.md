@@ -33,7 +33,7 @@ We often hear about Big Data and AI as technologies for maximizing corporate pro
 * Developed a neural network in MATLAB and C++
 * Comparative study of the performances of both programming languages
 * Used Stochastic Gradient descent and mini-batch method
-* Studied optimal number of layers and node to perform classification<br>*This work was carried out as part of INSA Lyon's CLANU Project in collaboration with Ms. Simona MILADINOVA.* 
+* Studied optimal number of layers and node to perform classification<br>*This work was carried out as part of INSA Lyon's CLANU Project in collaboration with Ms. Simona MILADINOVA([Linkedin](https://www.linkedin.com/in/simona-miladinova-839b8a17a/)).* 
 
 ___
 ___
