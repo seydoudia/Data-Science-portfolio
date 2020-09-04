@@ -20,7 +20,7 @@ if link doesn't work, click [HERE](https://github.com/seydoudia/ml_energy/blob/m
 * Validating results with t-SNE dimensionality reduction
 
 
-# [Research Paper 2: Big Data at the service of socio-economic developement in poor countries (2019)](https://github.com/seydoudia/ml_energy/blob/master/Big_Data_SDG.pdf) 
+# [Research Paper 2: Big Data at the service of socio-economic development in poor countries (2019)](https://github.com/seydoudia/ml_energy/blob/master/Big_Data_SDG.pdf) 
 *RESEARCH PAPER IN FRENCH*
 
 **Abstract**<br>
