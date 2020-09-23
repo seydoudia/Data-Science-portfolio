@@ -1,7 +1,6 @@
 # Project 3: Forecasting day-ahead prices - Wholesale electricity market (Coming soon)
 
-**Project Goals**
- Perform time series forecasting with:
+**Project Goals** <br> Perform time series forecasting with:
 * XGBoost Regressor
 * LASSO Regularised Regression
 * Seasonal Autoregression Integrated Moving Average (SARIMA)
