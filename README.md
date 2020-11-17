@@ -1,4 +1,4 @@
-# Project 3: Forecasting day-ahead prices - Wholesale electricity market (Coming soon)
+# Project 3: Forecasting day-ahead prices in Siberia (Coming soon)
 
 **Project Goals** <br> Perform time series forecasting with:
 * XGBoost Regressor
