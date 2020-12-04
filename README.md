@@ -1,4 +1,4 @@
-# Project 3: Forecasting Energy Consumption in Siberia (Coming soon)
+# Project 3: Forecasting Monthly Energy Consumption in Siberia (Coming soon)
 
 **Project Goals** <br> Perform time series forecasting with:
 * XGBoost Regressor
