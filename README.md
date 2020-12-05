@@ -25,18 +25,18 @@ if link doesn't work, click [HERE](https://github.com/seydoudia/ml_energy/blob/m
 * Validating results with t-SNE dimensionality reduction
 
 
-# [Research Paper 2: Big Data at the service of socio-economic development in poor countries (2019)](https://github.com/seydoudia/ml_energy/blob/master/Big_Data_SDG.pdf) 
-*RESEARCH PAPER IN FRENCH*
+# [Research Work 2: Big Data at the service of socio-economic development in poor countries (2019)](https://github.com/seydoudia/ml_energy/blob/master/Big_Data_SDG.pdf) 
+*PAPER IN FRENCH*
 
 **Abstract**<br>
 We often hear about Big Data and AI as technologies for maximizing corporate profit or for mass surveillance. But who would have thought that these new tools could be useful for the socio-economic development of developing countries. This is what this research paper is trying to achieve by exploring how machine learning and data science can contribute to the development of poor and developing countries or prevent humanitarian crisis situations.<br>*This work was carried out as part of INSA Lyon's Personal Project in Humanity (PPH).*
 
-# [Research Paper 1: Development of a Neural Network for image classification of the MNIST database (2019)](https://github.com/seydoudia/ml_energy/blob/master/B15_DIA_MILADINOVA.pdf)
-*RESEARCH PAPER IN FRENCH*
+# [Research Work 1: Study of a Neural Network for image classification of the MNIST database (2019)](https://github.com/seydoudia/ml_energy/blob/master/B15_DIA_MILADINOVA.pdf)
+*PAPER IN FRENCH*
 
 **Project Achievements**
-* Developed a neural network in MATLAB and C++
-* Comparative study of the performances of both programming languages
+* Analysed a neural network developed in MATLAB and C++
+* Performed a comparative study of the performances of both programming languages
 * Used Stochastic Gradient descent and mini-batch method
 * Studied optimal number of layers and node to perform classification<br>*This work was carried out as part of INSA Lyon's CLANU Project in collaboration with Ms. Simona MILADINOVA([Linkedin](https://www.linkedin.com/in/simona-miladinova-839b8a17a/)).* 
 
