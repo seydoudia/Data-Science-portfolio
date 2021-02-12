@@ -2,7 +2,6 @@
 
 **Project Goals** <br> Perform time series forecasting with:
 * Seasonal Autoregression Integrated Moving Average (SARIMA)
-
 * XGBoost Regressor
 * LASSO Regularised Regression
 
