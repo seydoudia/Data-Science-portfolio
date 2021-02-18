@@ -1,7 +1,7 @@
-# [Project 3: Forecasting Monthly Energy Consumption in Siberia](https://github.com/seydoudia/ml_energy/blob/master/sdia_prj3_forecasting_siberia_nb1.ipynb)
+# [Project 3: Forecasting Monthly Energy Consumption in Siberia](https://nbviewer.jupyter.org/github/seydoudia/ml_energy/blob/master/sdia_prj3_forecasting_siberia_nb1.ipynb)
 
 **Project Goals** <br> Perform time series forecasting with:
-* SARIMA - Seasonal Autoregression Integrated Moving Average
+* [SARIMA - Seasonal Autoregression Integrated Moving Average](https://nbviewer.jupyter.org/github/seydoudia/ml_energy/blob/master/sdia_prj3_forecasting_siberia_nb1.ipynb) click [here](https://github.com/seydoudia/ml_energy/blob/master/sdia_prj3_forecasting_siberia_nb1.ipynb) if broken link
 * XGBoost Regressor (_Coming Soon_)
 * LASSO Regularised Regression (_Coming Soon_)
 
