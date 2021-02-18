@@ -2,8 +2,8 @@
 
 **Project Goals** <br> Perform time series forecasting with:
 * [SARIMA - Seasonal Autoregression Integrated Moving Average](https://nbviewer.jupyter.org/github/seydoudia/ml_energy/blob/master/sdia_prj3_forecasting_siberia_nb1.ipynb)
-* XGBoost Regressor (_Coming Soon_)
-* LASSO Regularised Regression (_Coming Soon_)
+* XGBoost Regressor (_Coming soon_)
+* LASSO Regularised Regression (_Coming soon_)
 
 
 # [Project 2: Predicting the energy output of a power plant with multiple linear regressions (2020)](https://nbviewer.jupyter.org/github/seydoudia/ml_energy/blob/master/sdia_prj2_power_plant.ipynb)
