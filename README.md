@@ -6,7 +6,7 @@
 * LASSO Regularised Regression (_Coming soon_)
 
 
-# [Project 2: Predicting the energy output of a power plant with multiple linear regressions (2020)](https://github.com/seydoudia/ml_energy/blob/master/sdia_prj2_pwr_plant_pred.ipynb)
+# [Project 2: Predicting the energy output of a power plant with multiple linear regressions (2020)](https://nbviewer.jupyter.org/github/seydoudia/ml_energy/blob/master/sdia_prj2_pwr_plant_pred.ipynb)
 if link doesn't work, click [HERE](https://github.com/seydoudia/ml_energy/blob/master/sdia_prj2_pwr_plant_pred.ipynb) to access project
 
 **Project Achievements**
