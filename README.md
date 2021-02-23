@@ -1,4 +1,4 @@
-# [Project 3: Forecasting Monthly Energy Consumption in Siberia (2021)](https://nbviewer.jupyter.org/github/seydoudia/ml_energy/blob/master/sdia_prj3_siberia_forecast_nb1.ipynb)
+# [Project 3: Forecasting Monthly Energy Consumption in Siberia (2021)](https://github.com/seydoudia/ml_energy/blob/master/sdia_prj3_siberia_forecasting_nb1.ipynb)
 
 **Project Goals** <br> Perform time series forecasting with:
 * [SARIMA - Seasonal Autoregression Integrated Moving Average](https://github.com/seydoudia/ml_energy/blob/master/sdia_prj3_siberia_forecast_nb1.ipynb)
@@ -6,7 +6,7 @@
 * LASSO Regularised Regression (_Coming soon_)
 
 
-# [Project 2: Predicting the energy output of a power plant with multiple linear regressions (2020)](https://nbviewer.jupyter.org/github/seydoudia/ml_energy/blob/master/sdia_prj2_pwr_plant_pred.ipynb)
+# [Project 2: Predicting the energy output of a power plant with multiple linear regressions (2020)](https://github.com/seydoudia/ml_energy/blob/master/sdia_prj2_pp_pred.ipynb)
 if link doesn't work, click [HERE](https://github.com/seydoudia/ml_energy/blob/master/sdia_prj2_pwr_plant_pred.ipynb) to access project
 
 **Project Achievements**
@@ -16,7 +16,7 @@ if link doesn't work, click [HERE](https://github.com/seydoudia/ml_energy/blob/m
 * Tested homoscedasticity hypothesis with Breusch-Pagan test
 
 
-# [Project 1: Identifying a household's energy fingerprint with KMeans clustering (2020)](https://nbviewer.jupyter.org/github/seydoudia/ml_energy/blob/master/sdia_prj1_cluster_household.ipynb)
+# [Project 1: Identifying a household's energy fingerprint with KMeans clustering (2020)](https://github.com/seydoudia/ml_energy/blob/master/sdia_prj1_cluster_household.ipynb)
 if link doesn't work, click [HERE](https://github.com/seydoudia/ml_energy/blob/master/sdia_prj1_cluster_household.ipynb) to access project
 
 **Project Achievements**
