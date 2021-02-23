@@ -1,13 +1,13 @@
 # [Project 3: Forecasting Monthly Energy Consumption in Siberia (2021)](https://github.com/seydoudia/ml_energy/blob/master/sdia_prj3_siberia_forecasting_nb1.ipynb)
 
 **Project Goals** <br> Perform time series forecasting with:
-* [SARIMA - Seasonal Autoregression Integrated Moving Average](https://github.com/seydoudia/ml_energy/blob/master/sdia_prj3_siberia_forecast_nb1.ipynb)
+* [SARIMA - Seasonal Autoregression Integrated Moving Average](https://github.com/seydoudia/ml_energy/blob/master/sdia_prj3_siberia_forecasting_nb1.ipynb)
 * XGBoost Regressor (_Coming soon_)
 * LASSO Regularised Regression (_Coming soon_)
 
 
 # [Project 2: Predicting the energy output of a power plant with multiple linear regressions (2020)](https://github.com/seydoudia/ml_energy/blob/master/sdia_prj2_pp_pred.ipynb)
-if link doesn't work, click [HERE](https://github.com/seydoudia/ml_energy/blob/master/sdia_prj2_pwr_plant_pred.ipynb) to access project
+if link doesn't work, click [HERE](https://github.com/seydoudia/ml_energy/blob/master/sdia_prj2_pp_pred.ipynb) to access project
 
 **Project Achievements**
 * Built two multiple linear regression models with both Scikit-Learn and Stats Model
@@ -17,7 +17,7 @@ if link doesn't work, click [HERE](https://github.com/seydoudia/ml_energy/blob/m
 
 
 # [Project 1: Identifying a household's energy fingerprint with KMeans clustering (2020)](https://github.com/seydoudia/ml_energy/blob/master/sdia_prj1_cluster_household.ipynb)
-if link doesn't work, click [HERE](https://github.com/seydoudia/ml_energy/blob/master/sdia_prj1_cluster_household.ipynb) to access project
+if link doesn't work, click [HERE]((https://github.com/seydoudia/ml_energy/blob/master/sdia_prj1_cluster_household.ipynb) to access project
 
 **Project Achievements**
 * Processed 4 year historical data from an electric meter at a 1 minute timestep
