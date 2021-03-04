@@ -11,10 +11,6 @@ In the era of big data, where the benefits of data are too often emphasized, we 
 It was carried out under the direction of [Mr. Mehdi Kaytoue](https://fr.linkedin.com/in/mehdikaytoue) and [Mr. Anes Bendimerad](https://fr.linkedin.com/in/anes-bendimerad-90670265), both members of the R&D section of INFOLOGIC. Finally, this project was led by [Ms. Simona Miladinova](https://www.linkedin.com/in/simona-miladinova-839b8a17a/) and myself as part of the CIX research program of INSA Lyon.
  
 
-Translated with www.DeepL.com/Translator (free version) 
-
-Translated with www.DeepL.com/Translator (free version)
-
 **Project Goals** <br> Perform time series forecasting with:
 * [SARIMA - Seasonal Autoregression Integrated Moving Average](https://github.com/seydoudia/ml_energy/blob/master/sdia_prj3_siberia_forecasting_nb1.ipynb)
 * XGBoost Regressor (_Coming soon_)
