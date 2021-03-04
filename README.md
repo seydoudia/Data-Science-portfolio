@@ -1,4 +1,19 @@
-# [Project 3: Forecasting Monthly Energy Consumption in Siberia (2021)](https://github.com/seydoudia/ml_energy/blob/master/sdia_prj3_siberia_forecasting_nb1.ipynb)
+# [Project 4: Forecasting Monthly Energy Consumption in Siberia (2021)](https://github.com/seydoudia/ml_energy/blob/master/sdia_prj3_siberia_forecasting_nb1.ipynb)
+
+**Project Goals** <br> Perform time series forecasting with:
+* [SARIMA - Seasonal Autoregression Integrated Moving Average](https://github.com/seydoudia/ml_energy/blob/master/sdia_prj3_siberia_forecasting_nb1.ipynb)
+* XGBoost Regressor (_Coming soon_)
+* LASSO Regularised Regression (_Coming soon_)
+
+
+# [Project 3: deep analysis of 50 hard drives available storage to prevent saturation (2021)](https://github.com/seydoudia/ml_energy/blob/master/sdia_prj3_siberia_forecasting_nb1.ipynb)
+In the era of big data, where the benefits of data are too often emphasized, we often forget the issue of storage.  With 1 million trillion Kbytes generated every day, we need to be able to size storage systems adapted to our needs and avoid saturation while limiting the resources used. In this project, we are exploring the availability rates of 50 different hard disks to study their evolution and establish the best models to provide information on their saturation date. This study was conducted in collaboration with the company INFOLOGIC, which distributes an ERP software for the food industry and provided us with their data.
+It was carried out under the direction of [Mr. Mehdi Kaytoue](https://fr.linkedin.com/in/mehdikaytoue) and [Mr. Anes Bendimerad]https://fr.linkedin.com/in/anes-bendimerad-90670265, both members of the R&D section of INFOLOGIC. Finally, this project was led by [Ms. Simona Miladinova](https://www.linkedin.com/in/simona-miladinova-839b8a17a/) and myself as part of the CIX research program of INSA Lyon.
+ 
+
+Translated with www.DeepL.com/Translator (free version) 
+
+Translated with www.DeepL.com/Translator (free version)
 
 **Project Goals** <br> Perform time series forecasting with:
 * [SARIMA - Seasonal Autoregression Integrated Moving Average](https://github.com/seydoudia/ml_energy/blob/master/sdia_prj3_siberia_forecasting_nb1.ipynb)
@@ -8,6 +23,8 @@
 
 # [Project 2: Predicting the energy output of a power plant with multiple linear regressions (2020)](https://github.com/seydoudia/ml_energy/blob/master/sdia_prj2_pp_pred.ipynb)
 if link doesn't work, click [HERE](https://github.com/seydoudia/ml_energy/blob/master/sdia_prj2_pp_pred.ipynb) to access project
+**Abstract**<br>
+At the era of big data where we are always talking about the benfits of the proliferation data. But the ques
 
 **Project Achievements**
 * Built two multiple linear regression models with both Scikit-Learn and Stats Model
