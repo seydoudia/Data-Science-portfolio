@@ -29,7 +29,7 @@ if link doesn't work, click [HERE](https://github.com/seydoudia/ml_energy/blob/m
 
 
 # [Project 1: Identifying a household's energy fingerprint with KMeans clustering (2020)](https://github.com/seydoudia/ml_energy/blob/master/sdia_prj1_cluster_household.ipynb)
-if link doesn't work, click [HERE]((https://github.com/seydoudia/ml_energy/blob/master/sdia_prj1_cluster_household.ipynb) to access project
+if link doesn't work, click [HERE](https://github.com/seydoudia/ml_energy/blob/master/sdia_prj1_cluster_household.ipynb) to access project
 
 **Project Achievements**
 * Processed 4 year historical data from an electric meter at a 1 minute timestep
