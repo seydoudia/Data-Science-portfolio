@@ -20,7 +20,6 @@ It was carried out under the direction of [Mr. Mehdi Kaytoue](https://fr.linkedi
 # [Project 2: Predicting the energy output of a power plant with multiple linear regressions (2020)](https://github.com/seydoudia/ml_energy/blob/master/sdia_prj2_pp_pred.ipynb)
 if link doesn't work, click [HERE](https://github.com/seydoudia/ml_energy/blob/master/sdia_prj2_pp_pred.ipynb) to access project
 **Abstract**<br>
-At the era of big data where we are always talking about the benfits of the proliferation data. But the ques
 
 **Project Achievements**
 * Built two multiple linear regression models with both Scikit-Learn and Stats Model
