@@ -1,4 +1,4 @@
-# [Project 4: Forecasting Monthly Energy Consumption in Siberia (2021)](https://github.com/seydoudia/ml_energy/blob/master/sdia_prj3_siberia_forecasting_nb1.ipynb)
+# [Project 4: Forecasting Monthly Energy Consumption in Siberia (2021)](https://nbviewer.jupyter.org/github/seydoudia/ml_energy/blob/master/sdia_prj3_siberia_forecasting_nb1.ipynb)
 
 **Project Goals** <br> Perform time series forecasting with:
 * [SARIMA - Seasonal Autoregression Integrated Moving Average](https://github.com/seydoudia/ml_energy/blob/master/sdia_prj3_siberia_forecasting_nb1.ipynb)
