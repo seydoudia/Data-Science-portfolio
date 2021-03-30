@@ -6,18 +6,12 @@
 * LASSO Regularised Regression (_Coming soon_)
 
 
-# [Project 3: deep analysis of 50 hard drives available storage to prevent saturation (2021)](https://github.com/seydoudia/ml_energy/blob/master/sdia_prj_infologic.ipynb)
+# [Project 3: deep analysis of 50 hard drives available storage to prevent saturation (2021)](https://nbviewer.jupyter.org/github/seydoudia/ml_energy/blob/master/sdia_prj_infologic.ipynb)
 In the era of big data, where the benefits of data are too often emphasized, we often forget the issue of storage.  With 1 million trillion Kbytes of data generated every day, we need to be able to size storage systems adapted to our needs and avoid saturation while limiting the resources used. In this project, we are exploring the availability rates of 50 different hard disks to study their evolution and establish the best models to provide information on their saturation date.<br> *This study was conducted in collaboration with the company [INFOLOGIC](https://www.infologic-copilote.fr/), which distributes an ERP software for the food industry and provided us with their data.
 It was carried out under the direction of [Mr. Mehdi Kaytoue](https://fr.linkedin.com/in/mehdikaytoue) and [Mr. Anes Bendimerad](https://fr.linkedin.com/in/anes-bendimerad-90670265), both members of the R&D section of INFOLOGIC. Finally, this project was led by [Ms. Simona Miladinova](https://www.linkedin.com/in/simona-miladinova-839b8a17a/) and myself as part of the CIX research program of INSA Lyon.*
  
 
-**Project Goals** <br> Perform time series forecasting with:
-* [SARIMA - Seasonal Autoregression Integrated Moving Average](https://github.com/seydoudia/ml_energy/blob/master/sdia_prj3_siberia_forecasting_nb1.ipynb)
-* XGBoost Regressor (_Coming soon_)
-* LASSO Regularised Regression (_Coming soon_)
-
-
-# [Project 2: Predicting the energy output of a power plant with multiple linear regressions (2020)](https://github.com/seydoudia/ml_energy/blob/master/sdia_prj2_pp_pred.ipynb)
+# [Project 2: Predicting the energy output of a power plant with multiple linear regressions (2020)](https://nbviewer.jupyter.org/github/seydoudia/ml_energy/blob/master/sdia_prj2_pp_pred.ipynb)
 if link doesn't work, click [HERE](https://github.com/seydoudia/ml_energy/blob/master/sdia_prj2_pp_pred.ipynb) to access project
 **Abstract**<br>
 
@@ -28,7 +22,7 @@ if link doesn't work, click [HERE](https://github.com/seydoudia/ml_energy/blob/m
 * Tested homoscedasticity hypothesis with Breusch-Pagan test
 
 
-# [Project 1: Identifying a household's energy fingerprint with KMeans clustering (2020)](https://github.com/seydoudia/ml_energy/blob/master/sdia_prj1_cluster_household.ipynb)
+# [Project 1: Identifying a household's energy fingerprint with KMeans clustering (2020)](https://nbviewer.jupyter.org/github/seydoudia/ml_energy/blob/master/sdia_prj1_cluster_household.ipynb)
 if link doesn't work, click [HERE](https://github.com/seydoudia/ml_energy/blob/master/sdia_prj1_cluster_household.ipynb) to access project
 
 **Project Achievements**
