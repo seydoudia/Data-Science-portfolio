@@ -59,7 +59,7 @@ ___
 # About Me
 **Seydou DIA**
 
-![profile picture](https://raw.githubusercontent.com/seydoudia/Data-Science-portfolio/master/photo(1).png "profile pic") <br>
+![profile picture](https://raw.githubusercontent.com/seydoudia/Data-Science-portfolio/master/photo(1).jpg "profile pic") <br>
 **I am an engineer who likes to contribute to Data Science projects in relation with the energy sector and the development of Smart Grids. Mindful of the current climate and economic challenges, I firmly believe that the energy transition will be made with a smarter and above all more efficient way of consuming energy.
 I hold a Meng from INSA Lyon and a Post Master Degree from Mines ParisTech. My skills range from data science to operations research as well as energy economics and  financial assessment of energy projects**
 
