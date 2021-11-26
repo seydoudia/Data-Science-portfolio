@@ -67,7 +67,4 @@ I hold a Meng from INSA Lyon and a Post Master Degree from Mines ParisTech. My s
 # Contact
 [Linkedin](https://www.linkedin.com/in/seydou-dia-325b04139/)<br>
 [Github](https://github.com/seydoudia)<br>
-Email: seydou.dia@insa-lyon.fr<br>
-
-[INSA Lyon Website](https://www.insa-lyon.fr/en)<br>
-[INSA Lyon Electrical Engineering Department Website](https://ge.insa-lyon.fr/en/)
+Email: seydou.dia@mines-paristech.fr<br>
