@@ -4,6 +4,7 @@
 # [Project 5: Development of a MILP to optimize the operational cost of power assets (2021)](https://nbviewer.org/github/seydoudia/ml_energy/blob/master/sdia_prj5_milp.ipynb)
 
 if link doesn't work, click [HERE](https://github.com/seydoudia/ml_energy/blob/master/sdia_prj5_milp.ipynb) to access project<br>
+<br>
 Optimal planning and operation of a power generation fleet consists in deciding on the operating schedule of the generation units to meet the forecasted load over a given time horizon, taking into account the technical constraints that govern the operation of the units while minimizing operating costs. In this project we will study the development of a Mixed-Integer-Linear-Programming (MILP) model to optimize the management of 27 thermal power plants and 2 hydroelectric plant to meet a specific demand at an hourly timestep. We present the entire model as well as the code developed in python.<br>
 *This project was conducted during the Msc. in Energy Systems Optimization of Mines ParisTech in collaboration with Ms. [Simona MILADINOVA](https://fr.linkedin.com/in/simona-miladinova-839b8a17a/fr) and under the supervising of Ms. [Sophie DEMASSEY](http://sofdem.github.io/), associate professor at **Mines ParisTech**. This work resulted in a detailed report that is not presented in the notebook.*
 
