@@ -1,7 +1,7 @@
 # Project 6: Dynamic Pricing of Electricity: interest & limits (Coming soon)
 
 
-# [Project 5: Development of a MILP to optimize the operational cost of power generation assets (2021)](https://nbviewer.org/github/seydoudia/ml_energy/blob/master/sdia_prj5_milp.ipynb)
+# [Project 5: Development of a MILP to optimize the operational cost of power generation assets (2021)](https://nbviewer.org/github/seydoudia/ml_energy/blob/master/sdia_milp_prj5.ipynb)
 
 if link doesn't work, click [HERE](https://github.com/seydoudia/ml_energy/blob/master/sdia_prj5_milp.ipynb) to access project<br>
 <br>
