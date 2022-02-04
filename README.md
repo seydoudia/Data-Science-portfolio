@@ -3,7 +3,7 @@
 
 In this work we study the relevance on dynamic pricing in which small consumers would be exposed to variable electricity price. The price structures analysed in our document range from Time-of-Use and Peak-Time-Rebates to Increasing-Block-Tariff-Rate and Critical Peak Pricing as well as Real-Time Pricing. We study experiments that have been conducted in Spain, Ethiopia, Norvegia, France and the US, to assess the interests and limits of these pricing method. *This project was conducted during the Msc. in Energy Systems Optimization of Mines ParisTech in collaboration with Ms. [Simona MILADINOVA](https://fr.linkedin.com/in/simona-miladinova-839b8a17a/fr) It is the result of a 4 months project as part of the energy economics course taught by [J. PERCEBOIS](https://fr.wikipedia.org/wiki/Jacques_Percebois), director of the  Centre de recherche en économie et droit de l'énergie (CREDEN), and [F. MIRABEL](https://fr.linkedin.com/in/fran%C3%A7ois-mirabel-65b13626), dean of the faculty of economics of Montpellier, France.* 
 
-**Key takes aways** :
+**Key take aways** :
 * Variable pricing can send strong price signals and incentive to load shifting
 * Reflecting the real price of electricity can help investments in renwables energies, storage systems and avoid additional capacity deployment
 * Real-Time-Pricing transfers all the risk to small consumers and exposes them to very high prices
