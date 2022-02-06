@@ -1,3 +1,5 @@
+# Project 6: Building S&P500 portfolios with decreasing carbon footprints (Coming soon)
+
 # [Research Work 3: Dynamic Pricing of Electricity: interest & limits (2022)](https://github.com/seydoudia/ml_energy/blob/master/sdia_electricity_dynamic_pricing.pdf)
 *PAPER IN FRENCH*
 
