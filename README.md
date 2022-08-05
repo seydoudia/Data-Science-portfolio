@@ -1,10 +1,11 @@
 # Project 7: Building S&P500 portfolios with decreasing carbon footprints (Coming soon)
 
 # Project 6: Modelling electricty markets : Study of the benefits of interconnections on prices
-In this work we study an optimization model of electricity coupled markets that maximizes the welfare. The goal of the project is to analyze the impact of interconnections on electricity prices. We first conduct the study with 3 price zones each containing 100 offers and buyers containing. When then extend the model to a 35 zones. The two indicators analyzed are congestion rent and price convergence.
+In this work we study an optimization model of electricity coupled markets that maximizes the welfare. The goal of the project is to analyze the impact of interconnections on electricity prices. We first conduct the study with 3 price zones each containing 100 offers and buyers. When then extend the model to a 35 zones problem. The two indicators analyzed are congestion rent and price convergence.
 
-* Slides contain dynamic plots. Please download them in pptx otherwise you won't be able to visualize the results.
+* Slides
 * Notebook
+**Slides contain dynamic plots. Please download them in pptx otherwise you won't be able to visualize the results.**
 
 # [Research Work 3: Dynamic Pricing of Electricity: interest & limits (2022)](https://github.com/seydoudia/ml_energy/blob/master/sdia_electricity_dynamic_pricing.pdf)
 *PAPER IN FRENCH*
