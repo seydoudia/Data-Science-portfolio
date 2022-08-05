@@ -1,6 +1,8 @@
 # Project 7: Building S&P500 portfolios with decreasing carbon footprints (Coming soon)
 
 # [Project 6: Modelling electricty markets : Study of the benefits of interconnections on prices](https://nbviewer.org/github/seydoudia/ml_energy/blob/master/sdia_prj6_coupled_markets.ipynb)
+
+if link doesn't work, click [HERE](https://nbviewer.org/github/seydoudia/ml_energy/blob/master/sdia_prj6_coupled_markets.ipynb) to access project<br>
 In this work we study an optimization model of electricity coupled markets that maximizes the welfare. The goal of the project is to analyze the impact of interconnections on electricity prices. We first conduct the study with 3 price zones each containing 100 offers and buyers. When then extend the model to a 35 zones problem. The two indicators analyzed are congestion rent and price convergence. This project was conducted during the Msc. in Energy Systems Optimization of Mines ParisTech in collaboration with [Ms. Simona MILADINOVA](https://www.linkedin.com/in/simona-miladinova-839b8a17a/) and under the supervising of Mr. [Jean-Paul MARMORAT](https://www.minesparis.psl.eu/Services/Annuaire/jean-paul-marmorat), research director at Mines ParisTech. 
 
 * Slides
