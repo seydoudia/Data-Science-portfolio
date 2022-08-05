@@ -1,4 +1,4 @@
-# Project 7: Building S&P500 portfolios with decreasing carbon footprints (Coming soon)
+# Project 7: Building S&P500 portfolios with decreasing carbon footprints (Coming in August 22)
 
 # [Project 6: Modelling electricty markets : Study of the benefits of interconnections on prices](https://nbviewer.org/github/seydoudia/ml_energy/blob/master/sdia_prj6_coupled_markets.ipynb) 
 
