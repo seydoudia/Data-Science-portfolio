@@ -5,8 +5,7 @@
 if link doesn't work, click [HERE](https://nbviewer.org/github/seydoudia/ml_energy/blob/master/sdia_prj6_coupled_markets.ipynb) to access project<br><br>
 In this work we study an optimization model of electricity coupled markets that maximizes welfare. The goal of the project is to analyze the impact of interconnections on electricity prices. We first conduct the study with 3 price zones each containing 100 offers and buyers. When then extend the model to a 35 zones problem. The two indicators analyzed are congestion rent and price convergence. This project was conducted during the Msc. in Energy Systems Optimization of Mines ParisTech in collaboration with [Ms. Simona MILADINOVA](https://www.linkedin.com/in/simona-miladinova-839b8a17a/) and under the supervising of Mr. [Jean-Paul MARMORAT](https://www.minesparis.psl.eu/Services/Annuaire/jean-paul-marmorat), research director at Mines ParisTech. 
 
-* Slides
-* Notebook
+* [Slides](https://github.com/seydoudia/ml_energy/blob/master/sdia_prj6_coupled_markets.pptx) *IN FRENCH*
 **Slides contain dynamic plots. Please download them in pptx otherwise you won't be able to visualize the results.**
 
 # [Research Work 3: Dynamic Pricing of Electricity: interest & limits (2022)](https://github.com/seydoudia/ml_energy/blob/master/sdia_electricity_dynamic_pricing.pdf)
