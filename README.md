@@ -1,4 +1,4 @@
-# [Project 7: Building S&P500 portfolios with decreasing carbon footprints](https://github.com/seydoudia/portfolio_optimization)
+# [Project 7: Building S&P500 portfolios with decreasing carbon footprints (2022)](https://github.com/seydoudia/portfolio_optimization)
 
 In this project, we analyze different asset management strategies as well as KPIs to compare them. The project simulates investment strategies througout a duration of 20 years with models such as Equally Weighted, Global Minimum Variance, Max Decorrelation, Max Diversification Maximum Sharp Ratio.
 The assets are initially selected by taking into account the 5 best assets with the lowest carbon footprint from each of the 10 sectors of the S&P500. For each optimization strategy, the objective functions are penalized by each asset's carbon footprint. The result are then analyzed with KPIs including : Return, Volatility, Information Ratio, Diversification Index, Sharp Ratio, Tracking Error, Excess Return.
