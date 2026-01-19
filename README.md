@@ -1,3 +1,6 @@
+# [Project 8: Building S&P500 portfolios with decreasing carbon footprints (2025)] (https://htmlpreview.github.io/?https://github.com/seydoudia/ml_energy/blob/master/Road_diesel_study_output_blog.html)
+In this note we explore how road diesel is reported within the oil information dataset published by the International Energy Agency. Our focus is on understanding the approaches countries use to report road diesel demand, viewed through the lens of energy statistics. In this work we are looking at 2023 road diesel demand data and presenting the definitions of diesel products according to international energy statistics in OECD countries as well the economic sectors for which road diesel demand is reported. This data is reported through annual questionnaires and directly reported to the IEA by statistical authorities within reporting countries.
+
 # [Project 7: Building S&P500 portfolios with decreasing carbon footprints (2022)](https://github.com/seydoudia/portfolio_optimization)
 
 In this project, we analyze different asset management strategies as well as KPIs to compare them. The project simulates investment strategies throughout the duration of 20 years with models such as Equally Weighted, Global Minimum Variance, Max Decorrelation, Max Diversification Maximum Sharpe Ratio.
