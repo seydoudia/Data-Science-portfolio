@@ -1,5 +1,5 @@
 # Project 10: Mapping the Evolution of Energy Priorities Through Text Mining
-*Evidence from 25 Years of World Energy Outlook Executive Summaries (1999–2025)*<br>
+*25 Years of World Energy Outlook Executive Summaries (1999–2025)*<br>
 🚧 Coming Soon
 
 # [Project 9: Estimate petroleum coke refinery yield based on crude throughput, atmospheric distillation capacity and coking unit size (2026)](https://seydoudia.github.io/ml_energy/sdia_prj9_petroleum_coke_output_blog.html)
