@@ -95,11 +95,13 @@ ___
 **Seydou DIA**
 
 ![profile picture](https://raw.githubusercontent.com/seydoudia/Data-Science-portfolio/master/no_bg.png "profile pic") <br>
-**I am an engineer who likes to contribute to Data Science projects in relation with the energy sector and the development of Smart Grids. Mindful of the current climate and economic challenges, I firmly believe that the energy transition will be made with a smarter and above all more efficient way of consuming energy.
-I hold a Meng from INSA Lyon and a Post Master Degree from Mines ParisTech. My skills range from data science to operations research as well as energy economics and  financial assessment of energy projects**
+**Combining a passion for energy with a strong quantitative background, I enjoy making energy information more accessible and easier to explore.
+Currently working at the International Energy Agency (IEA), I contribute to making energy data and analysis more accessible, consistent and easier to use. My work spans the full range of energy systems and markets, from oil, natural gas and coal to electricity, renewables and emerging energy technologies.
+I hold an engineering degree from INSA Lyon and a postgraduate degree from Mines Paris. My background combines engineering, data analytics, operations research and energy economics, including the financial assessment of energy projects.
+This portfolio brings together selected projects and analyses exploring energy-related questions through data, modelling and quantitative methods.**
 
 
 # Contact
 [Linkedin](https://www.linkedin.com/in/seydou-dia-325b04139/)<br>
 [Github](https://github.com/seydoudia)<br>
-Email: seydou.dia@mines-paristech.fr<br>
+Email: seydou.dia@iea.org<br>
